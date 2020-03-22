@@ -23,7 +23,7 @@ Version
 Demos
 ============
 ![Demo with "Is fearr Gaeilge bhriste ná Béarla cliste" in archaic form](/image/demo1.png)
-![Demo with a Irish pangram](/image/demo2.png)
+![Demo with an Irish pangram](/image/demo2.png)
 
 Ligatures
 ============
