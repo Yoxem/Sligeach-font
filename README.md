@@ -61,4 +61,4 @@ ligatures only in sligeach_ligature.ttf
 Issues
 ----------------------------------------
  - ar & air are only ligaturized after some non-space characters and space(s).
- - the font height is too high.
+ - The font height is too high.
