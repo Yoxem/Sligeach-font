@@ -13,7 +13,7 @@ The's three version of it:
  - sligeach_round_u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
  - sligeach_ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
 
-It contains some punctuations(:;*,.?!‘’“”), but contains no numbers.
+It contains some punctuations(:;*,.?!‘’“”'-), but contains no numbers.
 
 Demos
 ============
