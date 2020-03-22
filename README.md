@@ -18,7 +18,7 @@ It contains some punctuations(:;*,.?!‘’“”), but contains no numbers.
 Demos
 ============
 ![Demo with "Is fearr Gaeilge bhriste ná Béarla cliste" in archaic form](/image/demo1.png)
-![Demo with a Irish pangram](/image/demo1.png)
+![Demo with a Irish pangram](/image/demo2.png)
 
 Ligatures
 ============
