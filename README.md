@@ -13,7 +13,12 @@ The's three version of it:
  - sligeach_round_u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
  - sligeach_ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
 
-It contains some punctuations(:;*,.?!‘’“”'-), but contains no numbers.
+It contains some punctuations(:;*,.?!‘’“”'-), but contains no numbers and without jkqvxwyz.
+
+Version
+=============
+- 0.1.0 (2020-03-22): add basic characters
+- 0.1.0.1 (2020-03-22, sligeach_ligature.ttf only) - add ligature ao
 
 Demos
 ============
@@ -44,8 +49,9 @@ ligatures only in sligeach_ligature.ttf
 
 | Contraction for | Picture     | How to type  | Notice |
 | --------------- | ------------|--------------|--------|
-| ar    | ![ar](/image/ae.png)  | ar          | ligaturized only between spaces (eg. " ar ") |
-| air    | ![air](/image/an.png)| air         | ligaturized only between spaces (eg. " air ") |
+| ar    | ![ar](/image/ar.png)  | ar          | ligaturized only between spaces (eg. " ar ") |
+| air    | ![air](/image/air.png)| air         | ligaturized only between spaces (eg. " air ") |
+| ao  | ![ao](/image/ao.png)  | ao          |        |
 | ea  | ![ea](/image/ea.png)  | ea          |        |
 | rr | ![rr](/image/cht.png)    | rr          |        |
 | si | ![si](/image/si.png)    | si          |        |
