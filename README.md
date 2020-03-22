@@ -9,16 +9,16 @@ The font is referenced from:
 
 The's three version of it:
 
- - sligeach_orig.ttf : the small u is like v, and it doesn't contain some ligatures (eg. ea, rr) listed in A Practical Grammar of the Irish Language, p.13.
- - sligeach_round_u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
- - sligeach_ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
+ - Sligeach Original.ttf : the small u is like v, and it doesn't contain some ligatures (eg. ea, rr) listed in A Practical Grammar of the Irish Language, p.13.
+ - Sligeach Round u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
+ - sligeach Ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
 
 It contains some punctuations(:;*,.?!‘’“”'-), but contains no numbers and without jkqvxwyz.
 
 Version
 =============
 - 0.1.0 (2020-03-22): add basic characters
-- 0.1.0.1 (2020-03-22, sligeach_ligature.ttf only) - add ligature ao
+- 0.1.0.1 (2020-03-22, Sligeach Ligature.ttf only) - add ligature ao
 
 Demos
 ============
