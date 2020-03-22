@@ -11,7 +11,7 @@ There are three version of it:
 
  - Sligeach Original.ttf : the small u is like v, and it doesn't contain some ligatures (eg. ea, rr) listed in A Practical Grammar of the Irish Language, p.13.
  - Sligeach Round u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
- - sligeach Ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
+ - Sligeach Ligature.ttf : the small u is like v, and it contains all ligatures (including ea, rr) listed in APGIL, p.13.
 
 It contains some punctuations(:;*,.?!‘’“”'-), but contains no numbers and without jkqvxwyz.
 
