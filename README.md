@@ -7,7 +7,7 @@ The font is referenced from:
  - A Practical Grammar of the Irish Language (Owen Connellan, 1844, main source)
  - Focloir Gaoidhilge - Sacs-bearla, or an Irish - English dictionary (Thomas De Vere Coneys, 1849).
 
-The's three version of it:
+There are three version of it:
 
  - Sligeach Original.ttf : the small u is like v, and it doesn't contain some ligatures (eg. ea, rr) listed in A Practical Grammar of the Irish Language, p.13.
  - Sligeach Round u.ttf : the small u is round, like roman-type u, and it doesn't contain some ligatures (eg. ea, rr) listed in APGIL, p.13.
