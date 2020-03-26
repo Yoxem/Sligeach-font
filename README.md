@@ -1,6 +1,6 @@
 # Sligeach font - A reprint font of a 19th Gaelic type font.
 
-Sligeach (Irish name for Sligo) font is a revived version of the Gaelic font used in some books. The font is mainly adapted from *
+Sligeach (Irish name for Sligo) font is a revived version of a Gaelic font (Fry font) used in some books. The font is mainly adapted from *
 A practical grammar of the Irish language* (by Owen Connellan in 1844), and the name is named from the linguist's birthplace.
 
 The font is referenced from:
